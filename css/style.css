@@ -1,0 +1,23 @@
+@media screen and (max-width: 992px){
+    #contenu>h2,h1,p{
+        font-size: 12px;
+    }
+    
+}
+@media (min-width: 576px) and (max-width:992 px){
+    #contenu>h2,h1,p{
+        font: size 50px;
+    }
+    
+}
+.container-fluid{
+    padding-left: 0% !important;
+    padding-right: 0% !important;
+
+}
+.jumbotron{
+    background-color: rgb(67, 168, 245);
+}
+#titre{
+    color:rgb(67, 168, 245) ;
+}
